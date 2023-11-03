@@ -15,3 +15,9 @@
 
 ## 프로젝트 구조
 ![image](https://github.com/MyeongGuJo/ComputerNetwork/assets/102133534/8ec9934f-29ce-45da-a775-33a6ea4ba4f0)
+
+
+## Reference
+
+혼자 하기에 너무 막막해서 해당 블로그의 코드를 (많이) 참고함.
+`https://velog.io/@yeomyaloo/%EC%9E%90%EB%B0%94%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EC%9B%B9%EC%84%9C%EB%B2%84%EB%A5%BC-%EA%B5%AC%EC%B6%95%ED%95%B4%EB%B3%B4%EC%9E%90`
