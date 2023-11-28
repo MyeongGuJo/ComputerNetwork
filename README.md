@@ -4,7 +4,7 @@
 
 주어진 *html* 파일을 serving 하는 server를 java로 구현.
 
-## 사용한 외부 라이브러리
+## first_web (HTTP protocol on application layer)
 - For network traffic, you are to use the “com.sun.net” packages 
 - For cookie handling, you are to use the “java.net.HttpCookie” packages
 
