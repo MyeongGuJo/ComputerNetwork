@@ -1,5 +1,7 @@
 # ComputerNetwork
 
+한양대학교 컴퓨터소프트웨어학부 2023년 2학기 컴퓨터 네트워크 강의 과제
+
 주어진 *html* 파일을 serving 하는 server를 java로 구현.
 
 ## 사용한 외부 라이브러리
@@ -21,6 +23,22 @@
 
 혼자 하기에 너무 막막해서 해당 블로그의 코드를 (많이) 참고함.
 
-
-
 `https://velog.io/@yeomyaloo/%EC%9E%90%EB%B0%94%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EC%9B%B9%EC%84%9C%EB%B2%84%EB%A5%BC-%EA%B5%AC%EC%B6%95%ED%95%B4%EB%B3%B4%EC%9E%90`
+
+## TCP_server
+
+Assignment #1 에서 Http 프로토콜을 사용하여 서버를 구현하였다면,
+
+이번엔 Trasport Layer의 TCP 레벨에서 서버를 구현함
+
+- Http, HttpCookie package 사용 금지
+
+첫 과제할 때는 새로워서 많이 헷갈렸는데
+
+이번에는 소켓 사용법만 익히고 혼자 다 구현함
+
+적응한 듯?
+
+## Reference 2
+
+`https://woolbro.tistory.com/m/29`
